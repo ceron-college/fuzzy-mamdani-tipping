@@ -43,11 +43,3 @@ g++ -o fuzzy_tipping main.cpp -lm
 ```
 
 Ensure `variables.txt` and `rules.txt` files are in the directory.
-
-## Authors
-
-- [Your Name]
-
-## License
-
-Licensed under the MIT License.
