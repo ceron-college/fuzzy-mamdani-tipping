@@ -1,0 +1,9 @@
+IF Short_waiting_time AND Low_price THEN Tip_High
+IF Average_waiting_time AND Fair_price THEN Tip_Medium
+IF Long_waiting_time AND High_price THEN Tip_Low
+IF Short_waiting_time AND Fair_price THEN Tip_High
+IF Average_waiting_time AND Low_price THEN Tip_High
+IF Long_waiting_time AND Low_price THEN Tip_Medium
+IF Short_waiting_time AND High_price THEN Tip_Medium
+IF Average_waiting_time AND High_price THEN Tip_Low
+IF Long_waiting_time AND Fair_price THEN Tip_Low

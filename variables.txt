@@ -1,0 +1,9 @@
+Short_waiting_time SAT 0 50
+Average_waiting_time TRIANG 0 50 100
+Long_waiting_time SAT 50 100
+Low_price SAT 0 60
+Fair_price TRIANG 0 60 100
+High_price SAT 60 100
+Tip_Low
+Tip_Medium
+Tip_High
