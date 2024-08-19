@@ -1,4 +1,4 @@
-# Mamdani fuzzy inference Tipping System
+# Fuzzy Logic Tipping System with Mamdani Inference
 
 This project implements a fuzzy logic system to infer tipping amounts based on service and food quality, using various membership functions and Mamdani inference.
 
