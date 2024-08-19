@@ -30,9 +30,11 @@ Tip_Low
 Tip_Medium
 Tip_High
 ```
-
-A help for this project's Mandani implementation was the code made by [Pablohrdz](https://github.com/Pablohrdz/Fuzzy-Engine).
-
+### Membership Functions For Service Quality
+![image](https://github.com/user-attachments/assets/8cca8533-6e51-493f-921e-7075c14e6068)
+- Service Poor: A saturation membership function (SAT) from 0 to 50.
+- Service Average: A triangular membership function (TRIANG) with the center at 50, ranging from 0 to 100.
+- Service Excellent: Another saturation membership function (SAT) from 50 to 100.
 ## How to Run
 
 Compile and run the program:
@@ -43,3 +45,6 @@ g++ -o fuzzy_tipping main.cpp -lm
 ```
 
 Ensure `variables.txt` and `rules.txt` files are in the directory.
+
+A help for this project's Mandani implementation was the code made by [Pablohrdz](https://github.com/Pablohrdz/Fuzzy-Engine).
+
