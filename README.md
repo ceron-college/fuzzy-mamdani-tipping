@@ -49,6 +49,4 @@ Ensure `variables.txt` and `rules.txt` files are in the directory.
 
 ## Related Repositories
 
-## Related Repositories
-
 - [Fuzzy Engine](https://github.com/Pablohrdz/Fuzzy-Engine): A repository for a fuzzy logic engine with Mandani implementation
