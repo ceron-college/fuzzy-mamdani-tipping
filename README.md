@@ -47,5 +47,6 @@ g++ -o fuzzy_tipping main.cpp -lm
 
 Ensure `variables.txt` and `rules.txt` files are in the directory.
 
-A help for this project's Mandani implementation was the code made by [Pablohrdz](https://github.com/Pablohrdz/Fuzzy-Engine).
+## Related Repositories
 
+- [Fuzzy-Engine]([https://github.com/username/repository-name](https://github.com/Pablohrdz/Fuzzy-Engine)): A Mandani implementation
