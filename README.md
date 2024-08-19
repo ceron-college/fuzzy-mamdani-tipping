@@ -49,4 +49,4 @@ Ensure `variables.txt` and `rules.txt` files are in the directory.
 
 ## Related Repositories
 
-- [Fuzzy-Engine]([https://github.com/username/repository-name](https://github.com/Pablohrdz/Fuzzy-Engine)): A Mandani implementation
+- [Fuzzy-Engine]([https://github.com/Pablohrdz/Fuzzy-Engine]): A Mandani implementation
