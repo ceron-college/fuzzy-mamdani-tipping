@@ -31,7 +31,8 @@ Tip_Medium
 Tip_High
 ```
 ### Membership Functions For Service Quality
-<img src="https://github.com/user-attachments/assets/8cca8533-6e51-493f-921e-7075c14e6068" alt="Image" width="300"/>
+<img src="https://github.com/user-attachments/assets/8cca8533-6e51-493f-921e-7075c14e6068" alt="Image" width="800"/>
+
 - Service Poor: A saturation membership function (SAT) from 0 to 50.
 - Service Average: A triangular membership function (TRIANG) with the center at 50, ranging from 0 to 100.
 - Service Excellent: Another saturation membership function (SAT) from 50 to 100.
